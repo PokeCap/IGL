@@ -1,3 +1,9 @@
+## How to Download Data:
+
+- Change netid and password in credential.py under folder "info_fetch"
+- Run get_citations.py under folder "info_fetch"
+
+
 ## Available Data Sets:
 
 ### Collaboration Distance
